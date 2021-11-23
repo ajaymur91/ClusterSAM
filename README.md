@@ -1,6 +1,6 @@
 # Calculate dissociation barrier using OPES
   - This Repo is currently not maintained
-  - Use the official repo at https://github.com/ajaymur91/CLIPS
+  - Instead, Use the official repo at https://github.com/ajaymur91/CLIPS
 
   ```
 # Requirements:
